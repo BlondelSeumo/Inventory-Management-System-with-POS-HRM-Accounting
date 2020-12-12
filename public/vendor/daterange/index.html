@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap date</title>
+  <link rel='stylesheet' href='css/daterangepicker.min.css'>
+</head>
+
+<body>
+
+<input class="daterangepicker-field"></input>
+
+<script src='js/jquery.3.2.1.min.js'></script>
+<script src='js/moment.min.js'></script>
+<script src='js/knockout-3.4.2.js'></script>
+<script src='js/daterangepicker.min.js'></script>
+<script type="text/javascript">
+$(".daterangepicker-field").daterangepicker({
+  forceUpdate: true,
+  callback: function(startDate, endDate, period){
+  	var start_date = startDate.format('L');
+  	var end_date = endDate.format('L')
+    var title = start_date + ' – ' + end_date;
+    $(this).val(title);
+    
+    alert(start_date);
+  }
+});
+</script>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+Theory:
+CSE 333 - 3 credits
+Lab:
+CSE 366 - 1.5 credits
+CSE 440 - 1.5 credits
+CSE 450 - 2 credits
+
+Total:
+Theory - 3 Credits
+Lab - 5 Credits
+
+Money:
+S2 : addmission - 1805. fine - 30 ReAdmission - 1500 = 3335
+Std6 : (3 * 95) + (5 * 145) = 285 + 725 = 1010
+Total = 4345 Taka

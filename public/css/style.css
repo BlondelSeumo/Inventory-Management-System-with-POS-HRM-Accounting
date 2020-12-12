@@ -1,0 +1,54 @@
+
+.logo-container{
+    width: 100px;
+}
+.logo-container > img{
+    width: 100%;
+}
+
+.main-container {
+    margin-top: 65px;
+}
+
+.form-container{
+    max-width: 600px;
+    margin: 10px auto;
+}
+.form-container h1{
+    font-weight: 300;
+    font-size: 2.5rem;
+}
+
+.dropzone {
+    border: 1px dashed #ced4da;
+    border-radius: 5px;
+    background: white;
+}
+#imageUpload{
+    margin-bottom: 20px;
+    min-height: 80px;
+}
+
+div.has-error > input {
+    border: 1px solid #dc3545;
+}
+
+div.has-error> .form-text {
+    color: #dc3545;
+}
+
+#successModal .fa-thumbs-up {
+    font-size: 7.5rem;
+    color: #2ebf2e;
+}
+
+#successModal .fa-thumbs-down {
+    font-size: 7.5rem;
+    color: #e13535;
+}
+
+#success-text{
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+

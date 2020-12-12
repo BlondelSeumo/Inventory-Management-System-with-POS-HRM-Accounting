@@ -1,0 +1,15 @@
+Protocol 	From port 	To port 	Description 	Actions
+UDP 	5060 	5061 	New port priority 	
+TCP 	30101 	30101 	Mobile Legends TCP 	
+TCP 	30021 	30021 	Mobile Legends TCP 	
+UDP 	9992 	9992 	Mobile Legends UDP 	
+UDP 	30190 	30190 	Mobile Legends UDP 	
+TCP 	9339 	9339 	Clash of Clans 	
+TCP 	11311 	11311 	ROS 	
+UDP 	88 	88 	PUBG UDP 	
+UDP 	3074 	3074 	PUBG UDP 	
+TCP 	3074 	3074 	PUBG TCP 	
+UDP 	500 	500 	PUBG TCP 	
+UDP 	3544 	3544 	PUBG UDP 	
+UDP 	4500 	4500 	PUBG UDP 	
+UDP 	10000 	10150 	Arena of Valor 

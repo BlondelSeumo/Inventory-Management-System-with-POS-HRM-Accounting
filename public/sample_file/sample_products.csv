@@ -1,0 +1,3 @@
+image,name,code,type,brand,category,unit_code,cost,price,product_details,variant_name,item_code,additional_price
+,tinko,9999,standard,Lotto,accessories,pc,15,20,this is test product with variant,"S,M,L","S-9999,M-9999,L-9999","0,0,10"
+,test,1111,standard,,food,kg,10,15,this is test product without variant,,,

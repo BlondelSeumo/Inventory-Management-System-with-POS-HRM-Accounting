@@ -1,0 +1,5 @@
+code," name"," baseUnit"," operator"," operationValue"
+pc,piece,,,
+box,"Dozen Box",1,*,12
+m,Meter,,,
+km,kilometer,3,*,100

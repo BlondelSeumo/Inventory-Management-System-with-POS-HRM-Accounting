@@ -1,0 +1,4 @@
+product_code,quantity,sale_unit,product_price,discount_per_unit,tax_name
+63920719,2,pc,350,10,vat@10
+72782608,1,dozen,120,0,vat@15
+40624536,2,n/a,21,0,no tax
